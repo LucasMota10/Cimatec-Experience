@@ -8,7 +8,7 @@ Biblioteca utilizada: turtle 🐢
 
 comandos principais: ⚠️
 
-t.forward() - Avança a seta 🔴
+t.forward()  Avança a seta 🔴
 t.right() - rotaciona para a direita a seta 🟣
 t.left() - rotaciona para a esquerda a seta 🟠
 t.penup() - levanta a seta 🟢
